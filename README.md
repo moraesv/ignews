@@ -1,3 +1,27 @@
+# Ignews
+This project was created for study.
+Designed by Rocketseat.
+
+Ignews is a blog that uses integrations with Stripe, Prismic, FaunaDB and Github.
+An only frontend application that users can subscribe to read some news using the Stripe payments infrastructure, 
+all data are saved using FaunaDB and the posts are created using Prismic CMS.
+
+The code can show:
+- NextAuth to authenticate the user using only the Github integration
+- API routes to create a "backend" inside the frontend
+- The best practices to make the blog accessible search engines and return just part of the content and to the subscribed users the full content
+- Many integrations and the best practices to do it using Next.js
+
+### Technologies
+
+- Next.js
+- React.Js
+- Typescript
+- SASS
+- Stripe
+- Prismic
+- FaunaDB
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
