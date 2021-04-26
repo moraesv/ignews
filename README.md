@@ -1,4 +1,13 @@
 # Ignews
+
+![Home](./public/home.png)  
+
+![Posts](./public/posts.png)  
+
+![Post](./public/post.png)  
+
+![Post Preview](./public/post-preview.png)  
+
 This project was created for study.
 Designed by Rocketseat.
 
